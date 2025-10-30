@@ -1,2 +1,4 @@
 # -Age.py
-Age&lt;18
+Age<18,
+Age=>20Prints 
+print(You're àn adult")
